@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Metaforcee/metaforcee/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to Easymeta
+Easymeta is an amazing tool which can help you to manage your salesforce accounts easily and safely. As a chrome extension, you can access Easymeta functions in any salesforce page at any time.
+#1 Manage and Login your multiple salesforce accounts via OAuth authorization
+#2 Search apex, VF, objects, users, etc., then open them by one click
+#3 Perform quick deployment and monitor status easily
 
 ### Markdown
 
